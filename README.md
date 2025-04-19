@@ -16,6 +16,8 @@ git clone https://github.com/DigitalMiners777/Fabrika.git
 
 cd Fabrika
 
+nano data.txt
+
 pip install -r requirements.txt
 
 python bot.py
